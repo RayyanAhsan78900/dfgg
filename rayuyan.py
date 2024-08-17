@@ -1,5 +1,4 @@
 # Install necessary libraries in Colab
-!pip install streamlit==1.37.1 requests==2.32.3 pandas==2.2.2 matplotlib==3.9.2 prophet==1.1.5 scikit-learn==1.2.2 numpy==1.26.4 statsmodels==0.14.0 Cython pystan==2.19.1.1
 
 # Import required libraries
 import streamlit as st
